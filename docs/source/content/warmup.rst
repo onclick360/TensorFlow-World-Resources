@@ -107,7 +107,8 @@ Visual Resources
 * `TensorFlow Wide and Deep - Advanced Classification the easy way`_
 * `Tensorflow and deep learning - without a PhD`_: A great tutorial on TensoFLow workflow
 
-
+Tensorflow Installation with Python
+<a href="https://onclick360.com/install-tensorflow/">Install Tensorflow on windows</a>
 
 .. _TensorFlow DeepDive: https://www.youtube.com/watch?v=T0H6zF3K1mc
 .. _Go Deeper - Transfer Learning: https://www.youtube.com/watch?v=iu3MOQ-Z3b4
